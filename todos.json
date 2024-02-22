@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Ruracio",
+      "status": "ToDo"
+    },
+    {
+      "id": 2,
+      "title": "Study Axios",
+      "status": "In Progress"
+    }
+  ]
+}
